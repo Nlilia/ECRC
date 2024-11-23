@@ -3,7 +3,7 @@
 
 ## Electrical 
 
-####Proyek ini adalah implementasi sistem kontrol jarak jauh (remote control) berbasis STM32 untuk mengelola berbagai fungsi boat melalui komunikasi nirkabel menggunakan teknologi LoRa. Sistem ini dirancang untuk mengintegrasikan sensor dan aktuator guna memberikan informasi real-time dan kontrol presisi terhadap operasional boat.
+#### Proyek ini adalah implementasi sistem kontrol jarak jauh (remote control) berbasis STM32 untuk mengelola berbagai fungsi boat melalui komunikasi nirkabel menggunakan teknologi LoRa. Sistem ini dirancang untuk mengintegrasikan sensor dan aktuator guna memberikan informasi real-time dan kontrol presisi terhadap operasional boat.
 ####Komponen Utama dan Fungsinya
 
 ### 1. Power distribution board berisi komponen 
@@ -28,7 +28,8 @@
 #### berikut adalah diagram alir untuk sistem electrical dn sistem komunikasi 
 
 ### Siatem electrical 
-
+![Battery 2S 7,4V 2200 mAh_20241123_075619_0000](https://github.com/user-attachments/assets/00d6037a-472a-4e6d-a0a5-cee99bc12ed2)
 ### sistem komunikasi 
+
 
 
