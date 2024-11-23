@@ -30,6 +30,7 @@
 ### Siatem electrical 
 ![Battery 2S 7,4V 2200 mAh_20241123_075619_0000](https://github.com/user-attachments/assets/00d6037a-472a-4e6d-a0a5-cee99bc12ed2)
 ### sistem komunikasi 
+![Battery 2S 7,4V 2200 mAh_20241123_075619_0001](https://github.com/user-attachments/assets/31a50fc8-9a20-45a8-8420-e333f1b0be5b)
 
 
 
