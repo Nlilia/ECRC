@@ -57,6 +57,25 @@ selain menggunakan if else, dapat juga digunakan switch case untuk membuat keput
 
 ![Screenshot_2024-11-27-09-11-48-16](https://github.com/user-attachments/assets/4fa9f881-0832-464c-9c1b-7422a9782f7f)
 
+## Looping
+Looping adalah mekanisme untuk menjalankan serangkaian instruksi secara berulang, tergantung pada kondisi tertentu.
+Ada tiga jenis pernyataan looping yang umum digunakan di bahasa C:
+### 1. for loop
+digunakan untuk jumlah perulangan yang sudah diketahui sebelumnya. berikut adlah struktur dan contohnya 
+
+![Screenshot_2024-11-27-10-06-17-31](https://github.com/user-attachments/assets/d1cb9bed-277d-4546-b4ed-2f67fd119d17)
+
+### 2. while loop
+digunakan untuk jumlah perulangan yang belum diketahui dan pengulangan dilakukan sampai kondisi tertentu terpenuhi. berikut adalah struktur dan contohnya.
+
+![Screenshot_2024-11-27-10-06-26-28](https://github.com/user-attachments/assets/e767d7df-11d6-4232-a0cb-271ff61c1a3d)
+
+
+### 3. do-while loop
+do-while loop mirip dengan while loop, namun perbedaannya adalah loop ini akan selalu menjalankan blok kode setidaknya sekali, karena kondisi diperiksa setelah eksekusi pertama. berikut adalah struktur dan contohnya.
+
+![Screenshot_2024-11-27-10-06-32-33](https://github.com/user-attachments/assets/33482e8b-3989-4cc6-91b8-a503942d06e2)
+
 ## Array
 array adalah structure data yang digunakan untuk menyimpan sekumpulan data bertipe data sama. array memmiliki ukuran yang tetap dan akses elemnnya melaaluuii indeks. indeks pertama dimulai dari 0 contoh pada array 1,2,3,4,5 array 0 bernilai 1 sedangkan array 1 bernilai 2.
 
@@ -71,3 +90,5 @@ terdapat beberapa jenis dari struktur array sebagai berikut:
 fungsi adalah blok yang dirancang untuk melakukan tugas tertentu. adanya fungsi untuk membantu memecah kode yang mudah dikelola. berikut adalah struktur nya
 ![Screenshot_2024-11-27-09-29-52-28](https://github.com/user-attachments/assets/6278f2a2-125f-4d7e-93a5-4209fdc24076)
 
+## Kesulitan 
+kesulitan pada proses belajar C adalah pengaplikasian array untuk input matrix dengan dimensi sesuai keinginan pengguna serta logika pada perulangan for yang belum sepenuhnya dapat mengaplikasikan dengan baik.
